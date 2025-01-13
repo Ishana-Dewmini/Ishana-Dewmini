@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishana Dewmini</h1>
 A dedicated Electronic and Telecommunication Engineering undergraduate with strong knowledge in telecommunication and IoT fields. Passionate about solving real-world challenges by applying prior academic knowledge and hands-on experiences, while eagerly acquiring new skills, collaborating effectively within diverse teams, and contributing to impactful projects.
-<p align="center">
+<!--<p align="center">
   <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif" alt="Alt Text" width="500" height="300">
-</p>
+</p>-->
 
 <!--- 🌱 I’m currently working on my Final Year Project, which focuses on **A Smart Warehouse Design And Implementation Illustrating The Use Of Slicing In 5G**
 
