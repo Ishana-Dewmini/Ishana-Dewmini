@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishana Dewmini</h1>
 
-<!--<p align="center">
-  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif" alt="Alt Text" width="500" height="300">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Alt Text" width="500" height="300">
 </p>-->
 
  - 👩‍💻 I'm Electronic and Telecommunication Engineering undergraduatet at University of Moratuwa, Sri Lanka.
