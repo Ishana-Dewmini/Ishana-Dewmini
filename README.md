@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Alt Text" width="500" height="300">
-</p>-->
+</p>
 
  - 👩‍💻 I'm Electronic and Telecommunication Engineering undergraduatet at University of Moratuwa, Sri Lanka.
  
